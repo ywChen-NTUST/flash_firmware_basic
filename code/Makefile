@@ -1,7 +1,7 @@
 all:
-	g++ -c -O0 -Wall hw2.cpp
-	g++ hw2.o flash.o -o hw2
+	g++ -c -O0 -Wall hw3.cpp
+	g++ hw3.o flash.o -o hw3
 
 debug:
-	g++ -c -O0 -g -Wall hw2.cpp
-	g++ hw2.o flash.o -o hw2
+	g++ -c -O0 -g -Wall hw3.cpp
+	g++ hw3.o flash.o -o hw3
