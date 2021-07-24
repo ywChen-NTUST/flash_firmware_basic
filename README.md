@@ -4,4 +4,4 @@ Flash hw2.
 Implement the read, write, erase operation for the pages in a specific range.
 
 # manual (Chinese)
-./readme.pdf
+./homework2-第6組.pdf
